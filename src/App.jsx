@@ -410,8 +410,7 @@ function App() {
 
           <Button 
             onClick={() => window.open('https://pay.kiwify.com.br', '_blank')}
-            className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white text-xl sm:text-2xl px-12 py-8 rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300 font-bold"
-          >
+    className="bg-gradient-to-r from-pink-500 to-rose-500 hover:from-pink-600 hover:to-rose-600 text-white text-xs sm:text-xl px-1 py-0.5 sm:px-10 sm:py-6 rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300 font-bold"    >
             <Sparkles className="w-7 h-7 mr-2" />
             Quero Transformar Minhas Noites Agora
           </Button>

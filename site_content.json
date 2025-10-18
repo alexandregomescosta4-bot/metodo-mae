@@ -1,0 +1,152 @@
+{
+  "hero_section": {
+    "social_proof": "+2.380 mães já reservaram",
+    "headline": "O Guia Definitivo Que Faz Mães Exaustas Fazerem Seus Bebês Dormirem a Noite Toda em Até 7 Dias",
+    "sub_headline_italic": "Mesmo que já tenham tentado de tudo!",
+    "sub_headline_quote": "Método criado por uma mãe que estava no limite e que só queria uma coisa: dormir em paz, sem abandonar o bebê.",
+    "cta_text": "Sim! Quero Meu Bebê Dormindo a Noite Toda",
+    "cta_subtext": "Acesso imediato • Garantia de 7 dias • Risco zero"
+  },
+  "problem_section": {
+    "title": "😩 Isso parece com você?",
+    "items": [
+      "Seu bebê acorda toda hora e você sente que vai desmoronar",
+      "Já tentou seguir dicas da internet, mas nada funcionou",
+      "Se sente exausta, perdida e cheia de culpa",
+      "Já pensou: \"Será que tem algo de errado comigo?\""
+    ]
+  },
+  "story_section": {
+    "title": "💬 Minha história (que talvez seja a sua também)",
+    "paragraphs": [
+      "Era 3h22 da manhã. Eu estava sentada no chão do quarto, com o bebê no colo, chorando. Mas não era só ele que chorava. Eu também.",
+      "A maternidade tava me esmagando. Nada funcionava.",
+      "Foi nesse momento que pensei: \"Precisa existir um jeito mais leve...\"",
+      "E existia. Só que ninguém ensina esse jeito nas redes sociais."
+    ]
+  },
+  "testimonials_section": {
+    "title": "💖 Depoimentos de Mães Reais",
+    "testimonials": [
+      {
+        "text": "Meu bebê dormia só 2 horas por noite. Depois do método, dorme 7 seguidas! Mudou minha vida.",
+        "author": "Ana Paula, mãe do Lucas"
+      },
+      {
+        "text": "Achei que nada ia funcionar… até testar o Método M.A.E. Hoje eu durmo, e meu bebê também!",
+        "author": "Juliana, mãe da Laura"
+      },
+      {
+        "text": "É diferente de tudo. Não tem choro, não tem culpa, só leveza. Obrigada!",
+        "author": "Camila, mãe do Rafael"
+      }
+    ]
+  },
+  "method_presentation_section": {
+    "main_title": "✨ Apresento o Método M.A.E",
+    "subtitle": "Sono de Verdade em 7 Dias",
+    "description": "Um método simples, acolhedor e eficaz que respeita você e seu bebê.",
+    "pillars_title": "Os 3 Pilares do M.A.E:",
+    "pillars": [
+      {
+        "letter": "M",
+        "title": "Montar",
+        "description": "uma rotina simples e acolhedora"
+      },
+      {
+        "letter": "A",
+        "title": "Acalmar",
+        "description": "o bebê com técnicas suaves"
+      },
+      {
+        "letter": "E",
+        "title": "Ensinar",
+        "description": "o sono, sem deixar o bebê chorando"
+      }
+    ],
+    "learn_title": "💡 O que você vai aprender:",
+    "learn_items": [
+      "Como montar uma rotina noturna sem pressão",
+      "Como acalmar o bebê em minutos",
+      "Como lidar com despertares da madrugada",
+      "Como parar de se sentir culpada",
+      "Como criar noites leves e tranquilas"
+    ]
+  },
+  "offer_section": {
+    "title": "📦 O que você vai receber hoje:",
+    "items": [
+      {
+        "name": "Método M.A.E – Sono em 7 Dias",
+        "value": "R$97"
+      },
+      {
+        "name": "Planner da Rotina do Bebê",
+        "value": "R$27"
+      },
+      {
+        "name": "Checklist da Mãe Tranquila",
+        "value": "R$87"
+      },
+      {
+        "name": "Mini-guia: Acalmar o Bebê em Minutos",
+        "value": "R$47"
+      },
+      {
+        "name": "Guia: Bebê Dormindo Sozinho no Berço",
+        "value": "R$67"
+      }
+    ],
+    "total_value": "R$325",
+    "current_price_text": "💥 Hoje por apenas",
+    "current_price": "R$37",
+    "installment_price": "ou 10x de R$4,81",
+    "cta_text": "Sim! Quero o Método M.A.E AGORA",
+    "cta_subtext": "🧠 Por menos que um lanche no iFood, tenha noites reais de sono e paz."
+  },
+  "guarantee_section": {
+    "title": "✅ Garantia Incondicional de 7 Dias",
+    "paragraph1": "Se o guia não te ajudar ou você sentir que não vale cada centavo, eu devolvo seu dinheiro — sem perguntas.",
+    "paragraph2": "Mãe já tem culpa demais. Aqui, você tem apoio — ou seu dinheiro de volta."
+  },
+  "faq_section": {
+    "title": "❓ Perguntas Frequentes",
+    "faqs": [
+      {
+        "question": "Funciona mesmo se meu bebê acorda de hora em hora?",
+        "answer": "✅ Sim! O método foi criado justamente para bebês com sono fragmentado."
+      },
+      {
+        "question": "Preciso imprimir algo?",
+        "answer": "❌ Não! Tudo é digital e acessível pelo celular, tablet ou computador."
+      },
+      {
+        "question": "É curso ou ebook?",
+        "answer": "📘 É um guia prático em formato digital com planners e checklists incluídos."
+      },
+      {
+        "question": "E se eu não gostar?",
+        "answer": "💸 Você tem 7 dias de garantia incondicional. Dinheiro de volta, sem perguntas."
+      },
+      {
+        "question": "Serve para qualquer idade?",
+        "answer": "👶 Sim! Funciona para bebês de 4 meses a 2 anos, com ajustes por fase."
+      }
+    ]
+  },
+  "final_cta_section": {
+    "benefits": [
+      "Entrega Imediata",
+      "Acesso Vitalício",
+      "Risco Zero"
+    ],
+    "cta_text": "Quero Transformar Minhas Noites Agora"
+  },
+  "footer": {
+    "copyright": "© 2025 Método M.A.E — Todos os direitos reservados",
+    "links": [
+      "Termos de Uso",
+      "Política de Privacidade"
+    ]
+  }
+}
